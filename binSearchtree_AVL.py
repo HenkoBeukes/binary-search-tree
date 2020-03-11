@@ -26,7 +26,7 @@
 # http://code.activestate.com/recipes/577540-python-binary-search-tree/
 
 #  The node structure is a list of lists (self._root) with the basic node being:
-#  [[left_child], [right_child], value, sort_key] and each child having the same
+#  [[lo_child], [hi_child], value, sort_key] and each child having the same
 #  structure.
 
 
