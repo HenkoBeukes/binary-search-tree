@@ -1,2 +1,4 @@
-# Self-balancing Binary search tree,
-A Self balancing binary search tree taking nodes of strings as key and value and placing the node in the tree. The tree structure provides fiull CRUD functionality and a basic visualization. The tree can e saved as a pickle and saved trees can be retrieved and manipulated. 
+# Self-balancing BinarySearchTree
+This advanced data structure takes nodes consisting of tuples of key value pairs and place it in the tree according to the binary model. 
+The tree structure provides full CRUD functionality and a basic visualization. 
+The tree can be saved as a pickle and saved trees can be retrieved and manipulated. 
